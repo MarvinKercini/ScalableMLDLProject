@@ -38,3 +38,5 @@ We tried saving the model on both huggingface and hopsworks. Both these solution
 ## Prediction
 
 For the prediction we used a streamit app huggingface space. We load our model and also do the same combination of featueres as in the training but with the last 10 days or latest values. Then the model predicts on this interface and shows a graph of the latest values and the models prediction. In addition there is a slider where you can select to see the latest historical features, on which the model was based on.
+
+You can find the final version of our app here: https://huggingface.co/spaces/Victorlopo21/StockProject
