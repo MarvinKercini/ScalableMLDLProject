@@ -42,7 +42,9 @@ For the prediction we used a streamit app huggingface space. We load our model a
 You can find the final version of our app here: https://huggingface.co/spaces/Victorlopo21/StockProject
 
 
+
 Group 51
 
 Victor Lopo
+
 Marvin Kercini
